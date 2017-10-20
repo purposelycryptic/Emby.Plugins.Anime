@@ -1,0 +1,4398 @@
+<?xml version="1.0"?>
+<PluginConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MovieOptions>
+    <AllowedGenres />
+    <GenreMappings />
+    <LastChange>0001-01-01T00:00:00Z</LastChange>
+  </MovieOptions>
+  <SeriesOptions>
+    <AllowedGenres>
+      <string>18 Restricted</string>
+      <string>1920s</string>
+      <string>1960s</string>
+      <string>4-Koma</string>
+      <string>Absurdist Humour</string>
+      <string>Absurdly Powerful Student Council</string>
+      <string>Action</string>
+      <string>Adult becomes Child</string>
+      <string>Adults are Useless</string>
+      <string>Adventure</string>
+      <string>Africa</string>
+      <string>Afterlife</string>
+      <string>Against Destiny</string>
+      <string>Age Change</string>
+      <string>Age Difference Romance</string>
+      <string>Agriculture</string>
+      <string>Ahegao</string>
+      <string>Aim for the Top</string>
+      <string>Air Combat</string>
+      <string>Airship</string>
+      <string>Akihabara</string>
+      <string>Alice in Wonderland</string>
+      <string>Alien Invasion</string>
+      <string>Aliens living on Earth</string>
+      <string>All-Boys School</string>
+      <string>All-Girls School</string>
+      <string>Alternative Past</string>
+      <string>Alternative Present</string>
+      <string>American Football</string>
+      <string>American-derived</string>
+      <string>Amnesia</string>
+      <string>Anachronisms</string>
+      <string>Anal</string>
+      <string>Anal Pissing</string>
+      <string>Ancient Rivalry</string>
+      <string>Android</string>
+      <string>Angel</string>
+      <string>Angst</string>
+      <string>Animal Abuse</string>
+      <string>Animal Protagonist</string>
+      <string>Animal Sidekick</string>
+      <string>Animal World</string>
+      <string>Anime</string>
+      <string>Anthropomorphism</string>
+      <string>Anti-War</string>
+      <string>Antihero</string>
+      <string>Archaeology</string>
+      <string>Archery</string>
+      <string>Art School</string>
+      <string>Artificial Intelligence</string>
+      <string>Artificial Life Form</string>
+      <string>Asimov`s Three Laws of Robotics</string>
+      <string>Ass-Kicking Girls</string>
+      <string>Assassin</string>
+      <string>Association Football</string>
+      <string>Astronomy</string>
+      <string>Asuka Period</string>
+      <string>Asymmetric Warfare</string>
+      <string>Australia</string>
+      <string>Autofellatio</string>
+      <string>Aviation</string>
+      <string>BDSM</string>
+      <string>Back To Square One</string>
+      <string>Bad Cooking</string>
+      <string>Bad Luck</string>
+      <string>Badminton</string>
+      <string>Baking</string>
+      <string>Bakumatsu - Meiji Period</string>
+      <string>Ballet</string>
+      <string>Banana Peel</string>
+      <string>Banchou</string>
+      <string>Baseball</string>
+      <string>Basketball</string>
+      <string>Battle Royale</string>
+      <string>Battle of Wits</string>
+      <string>Be Careful What You Wish For</string>
+      <string>Beautiful People Club</string>
+      <string>Belgium</string>
+      <string>Belly Dance</string>
+      <string>Bestiality</string>
+      <string>Betrayal</string>
+      <string>Billiards</string>
+      <string>Biological Weapons</string>
+      <string>Biopunk</string>
+      <string>Bishoujo</string>
+      <string>Bishounen</string>
+      <string>Bitter-Sweet</string>
+      <string>Black Humour</string>
+      <string>Blackmail</string>
+      <string>Bloodless Wounds</string>
+      <string>Boarding School</string>
+      <string>Body Exchange</string>
+      <string>Body Sharing</string>
+      <string>Body Takeover</string>
+      <string>Bodyguard</string>
+      <string>Bondage</string>
+      <string>Bounty Hunter</string>
+      <string>Bowling</string>
+      <string>Boxing</string>
+      <string>Boy Kissing Boy</string>
+      <string>Boy Meets Girl</string>
+      <string>Brainwashing</string>
+      <string>Branching Story</string>
+      <string>Brazil</string>
+      <string>Break The Cutie</string>
+      <string>Breathing in Space</string>
+      <string>Bright Slap</string>
+      <string>Broken Friendship</string>
+      <string>Brother-Sister Incest</string>
+      <string>Bukkake</string>
+      <string>Bullet Time</string>
+      <string>Bullying</string>
+      <string>Call My Name</string>
+      <string>Calling Your Attacks</string>
+      <string>Canada</string>
+      <string>Car Chases</string>
+      <string>Castaway</string>
+      <string>Catastrophic Gadgets</string>
+      <string>Catholic School</string>
+      <string>Cervix Penetration</string>
+      <string>Character Driven</string>
+      <string>Cheating</string>
+      <string>Cheerleading</string>
+      <string>Chemical Weapons</string>
+      <string>Chess</string>
+      <string>Chikan</string>
+      <string>Child Abuse</string>
+      <string>Child Soldier(s)</string>
+      <string>Childhood Promise</string>
+      <string>Children</string>
+      <string>Children of Destiny</string>
+      <string>Chile</string>
+      <string>China</string>
+      <string>Chinese Mythology</string>
+      <string>Chinese Production</string>
+      <string>Chinese Zodiac</string>
+      <string>Cinderella</string>
+      <string>Civil War</string>
+      <string>Classic-Themed War Set in Future</string>
+      <string>Classical Music</string>
+      <string>Cold War</string>
+      <string>Collateral Damage</string>
+      <string>Colour Coded</string>
+      <string>Combat Pragmatist</string>
+      <string>Comedy</string>
+      <string>Comic Relief</string>
+      <string>Coming Of Age</string>
+      <string>Communication with the Dead</string>
+      <string>Competition</string>
+      <string>Concentration Camp</string>
+      <string>Concert</string>
+      <string>Conspiracy</string>
+      <string>Contemporary Fantasy</string>
+      <string>Cooking</string>
+      <string>Cops</string>
+      <string>Corrupt Church</string>
+      <string>Cosmic Reset</string>
+      <string>Cosplaying</string>
+      <string>Coup D`Etat</string>
+      <string>Court Politics</string>
+      <string>Courtroom Drama</string>
+      <string>Crazy Girl</string>
+      <string>Cream Pie</string>
+      <string>Crime</string>
+      <string>Croquet</string>
+      <string>Cross-Dressing</string>
+      <string>Cruel Reality</string>
+      <string>Cultural References</string>
+      <string>Cum Play</string>
+      <string>Cum Swapping</string>
+      <string>Cunnilingus</string>
+      <string>Curse</string>
+      <string>Cyberpunk</string>
+      <string>Cybersex</string>
+      <string>Cyberterrorism</string>
+      <string>Cyborg</string>
+      <string>Cycling</string>
+      <string>Daikaijuu</string>
+      <string>Daily Life</string>
+      <string>Dark</string>
+      <string>Dark Elf</string>
+      <string>Dark Fantasy</string>
+      <string>Dark Past</string>
+      <string>Dear Mother in Heaven</string>
+      <string>Death is Cheap</string>
+      <string>Deception</string>
+      <string>Deconstruction</string>
+      <string>Defeat Means Friendship</string>
+      <string>Deflowering</string>
+      <string>Deity</string>
+      <string>Deja Vu</string>
+      <string>Delayed Death</string>
+      <string>Delinquent</string>
+      <string>Demon</string>
+      <string>Despair</string>
+      <string>Detective</string>
+      <string>Detective Agency</string>
+      <string>Deus ex Machina</string>
+      <string>Dialogue Driven</string>
+      <string>Dieselpunk</string>
+      <string>Dildos - Vibrators</string>
+      <string>Dinosaur</string>
+      <string>Disturbing</string>
+      <string>Do Androids Dream of Electric Sheep?</string>
+      <string>Documentary</string>
+      <string>Dodge The Hug</string>
+      <string>Dodgeball</string>
+      <string>Doggy Style</string>
+      <string>Doppelganger</string>
+      <string>Double Fellatio</string>
+      <string>Double Penetration</string>
+      <string>Double-Sided Dildo</string>
+      <string>Doujin</string>
+      <string>Dragon</string>
+      <string>Dragon Girl</string>
+      <string>Drama</string>
+      <string>Drastic Change of Life</string>
+      <string>Drifting</string>
+      <string>Dutch Wife</string>
+      <string>Dysfunctional Family</string>
+      <string>Dystopia</string>
+      <string>Easter Island</string>
+      <string>Eating Of Humans</string>
+      <string>Ecchi</string>
+      <string>Educational</string>
+      <string>Egyptian Mythology</string>
+      <string>Elementary School</string>
+      <string>Elf</string>
+      <string>Emotionally Disturbing</string>
+      <string>Emotionless Killer</string>
+      <string>Emotions Awaken Superpowers</string>
+      <string>End of the World</string>
+      <string>Endless Ammo</string>
+      <string>Endless Battles</string>
+      <string>Enema</string>
+      <string>Engaged To An Alien</string>
+      <string>Engrish</string>
+      <string>Enjo-Kousai</string>
+      <string>Enjoyable Rape</string>
+      <string>Ensemble Cast</string>
+      <string>Entertainment Industry</string>
+      <string>Entertainment Is A Crime</string>
+      <string>Epidemic</string>
+      <string>Episodic</string>
+      <string>Erotic Asphyxiation</string>
+      <string>Erotic Torture</string>
+      <string>Euro-Beat</string>
+      <string>European Stylized</string>
+      <string>Everybody Dies</string>
+      <string>Everybody Has Sex</string>
+      <string>Everybody Is Nice</string>
+      <string>Evil Empire</string>
+      <string>Evil Government</string>
+      <string>Evil Hero</string>
+      <string>Evil Military</string>
+      <string>Evil Organization</string>
+      <string>Evil Tradition</string>
+      <string>Evolved Humans</string>
+      <string>Excessive Censoring</string>
+      <string>Exhibitionism</string>
+      <string>Exorcism</string>
+      <string>Experimental Technology</string>
+      <string>Extrasensory Perception</string>
+      <string>Eye Penetration</string>
+      <string>Eyeball Licking</string>
+      <string>FFM Threesome</string>
+      <string>Faceless Alien Invasion</string>
+      <string>Faceless Background Characters</string>
+      <string>Facesitting</string>
+      <string>Facial Distortion</string>
+      <string>Fairies</string>
+      <string>Fairy Tale</string>
+      <string>Fake Relationship</string>
+      <string>Familiar Spirit</string>
+      <string>Family</string>
+      <string>Family without Father</string>
+      <string>Family without Mother</string>
+      <string>Famine</string>
+      <string>Fanatic Protagonist</string>
+      <string>Fantasy</string>
+      <string>Fantasy World</string>
+      <string>Fashion</string>
+      <string>Fast-Paced</string>
+      <string>Faster-Than-Light Travel</string>
+      <string>Fate Worse Than Death</string>
+      <string>Father-Daughter Incest</string>
+      <string>Felching</string>
+      <string>Fellatio</string>
+      <string>Female Protagonist</string>
+      <string>Female Warriors</string>
+      <string>Femdom</string>
+      <string>Femme Fatale</string>
+      <string>Feud</string>
+      <string>Feudal Warfare</string>
+      <string>Fighting</string>
+      <string>Fillers</string>
+      <string>Filmmaking</string>
+      <string>Finland</string>
+      <string>First Love</string>
+      <string>Fishing</string>
+      <string>Fisting</string>
+      <string>Flat-chest Jokes</string>
+      <string>Floating Island</string>
+      <string>Following One`S Dream</string>
+      <string>Food</string>
+      <string>Foot Fetish</string>
+      <string>Footjob</string>
+      <string>Forbidden Love</string>
+      <string>Foreskin Sex</string>
+      <string>Formerly One-Gender School</string>
+      <string>Formula Racing</string>
+      <string>Foursome</string>
+      <string>Frame Story</string>
+      <string>France</string>
+      <string>French Revolution</string>
+      <string>Friendship</string>
+      <string>Funny Expressions</string>
+      <string>Futa X Female</string>
+      <string>Futa X Futa</string>
+      <string>Futa X Male</string>
+      <string>Futanari</string>
+      <string>Future</string>
+      <string>Gambling</string>
+      <string>Game Show</string>
+      <string>Gang Bang</string>
+      <string>Gang Rape</string>
+      <string>Gangs</string>
+      <string>Gaslamp Fantasy</string>
+      <string>Gattai</string>
+      <string>Gender Bender</string>
+      <string>Genetic Modification</string>
+      <string>Genocide</string>
+      <string>Germany</string>
+      <string>Ghost</string>
+      <string>Girl Kissing Girl</string>
+      <string>Girl Rapes Girl</string>
+      <string>Global Warming</string>
+      <string>Gloomy Rain</string>
+      <string>Glory Hole</string>
+      <string>Go</string>
+      <string>God Is a Girl</string>
+      <string>Gokkun</string>
+      <string>Golden Shower</string>
+      <string>Golf</string>
+      <string>Good Vs Evil</string>
+      <string>Gore</string>
+      <string>Gotta Catch Them All</string>
+      <string>Governmental Censorship</string>
+      <string>Grail in the Garbage</string>
+      <string>Grandiose Displays of Wealth</string>
+      <string>Greek Mythology</string>
+      <string>Group Suicide</string>
+      <string>Guerilla Warfare</string>
+      <string>Gunfights</string>
+      <string>Guns are Useless</string>
+      <string>Guro</string>
+      <string>Guy Getting Raped</string>
+      <string>Gymnastics</string>
+      <string>Hakkenden</string>
+      <string>Han Dynasty</string>
+      <string>Handjob</string>
+      <string>Happy Ending</string>
+      <string>Hard Science Fiction</string>
+      <string>Hard Work and Guts</string>
+      <string>Harem</string>
+      <string>Heart-Warming</string>
+      <string>Heaven</string>
+      <string>Heavy Metal Music</string>
+      <string>Heian Period</string>
+      <string>Hell</string>
+      <string>Henshin</string>
+      <string>Heroic Fantasy</string>
+      <string>Heroic Sacrifice</string>
+      <string>Hidden Power</string>
+      <string>Hidden Vibrator</string>
+      <string>High Fantasy</string>
+      <string>High School</string>
+      <string>Hip-Hop</string>
+      <string>Hirable Protagonist</string>
+      <string>Hiroshima</string>
+      <string>Historical</string>
+      <string>History Is Written By The Victors</string>
+      <string>Hokkaido</string>
+      <string>Home and Garden</string>
+      <string>Horny Nosebleed</string>
+      <string>Horror</string>
+      <string>Horse Riding</string>
+      <string>Human - God Relationship</string>
+      <string>Human - Non-Human Relationship</string>
+      <string>Human Cannibalism</string>
+      <string>Human Enhancement</string>
+      <string>Human Experimentation</string>
+      <string>Human Sacrifice</string>
+      <string>Human Weapon</string>
+      <string>Human-Android Love</string>
+      <string>Human-Replacement Robots</string>
+      <string>Humanoid Alien</string>
+      <string>Hyakunin Isshu</string>
+      <string>Hyperspace Mallet</string>
+      <string>Ice Skating</string>
+      <string>Idol</string>
+      <string>Idol Girlfriend</string>
+      <string>Ikebukuro</string>
+      <string>Illness</string>
+      <string>Immortality</string>
+      <string>Impact Event</string>
+      <string>Imperial Stormtrooper Marksmanship Academy</string>
+      <string>Imperialism</string>
+      <string>Important Haircut</string>
+      <string>Impregnation</string>
+      <string>Improbable Physics</string>
+      <string>In Medias Res</string>
+      <string>Incest</string>
+      <string>India</string>
+      <string>Indo-Japanese Co-Production</string>
+      <string>Infidelity</string>
+      <string>Inline Skating</string>
+      <string>Inter-Dimensional Travel</string>
+      <string>Inter-dimensional Schoolgirl</string>
+      <string>Internal Shots</string>
+      <string>Isekai</string>
+      <string>Italy</string>
+      <string>Iyashi-Kei</string>
+      <string>Japanese Mythology</string>
+      <string>Jazz</string>
+      <string>Jealousy</string>
+      <string>Josei</string>
+      <string>Journalism</string>
+      <string>Journey</string>
+      <string>Journey to the West</string>
+      <string>Judo</string>
+      <string>Just As Planned</string>
+      <string>Juujin</string>
+      <string>Kabuki</string>
+      <string>Kaguya-hime</string>
+      <string>Karate</string>
+      <string>Karuta</string>
+      <string>Kendo</string>
+      <string>Kids in War</string>
+      <string>Killer Loli</string>
+      <string>Killer Maid</string>
+      <string>Killer With Sudden Conscience Crisis</string>
+      <string>Killing - Murdering Protagonist</string>
+      <string>Kodomo</string>
+      <string>Korea</string>
+      <string>Kyoto</string>
+      <string>Lacrosse</string>
+      <string>Lactation</string>
+      <string>Large Breasts</string>
+      <string>Large-Scale War</string>
+      <string>Light-Hearted</string>
+      <string>Literature</string>
+      <string>Little Black Sambo</string>
+      <string>Living Together with God</string>
+      <string>Loli</string>
+      <string>Long Time Span</string>
+      <string>Lost Technology</string>
+      <string>Love Between Enemies</string>
+      <string>Love Polygon</string>
+      <string>Love at First Sight</string>
+      <string>MMF Threesome</string>
+      <string>MMM Threesome</string>
+      <string>Macabre</string>
+      <string>Mafia</string>
+      <string>Magic</string>
+      <string>Magic School</string>
+      <string>Magic Weapons</string>
+      <string>Magical Girl</string>
+      <string>Magical Realism</string>
+      <string>Mahjong</string>
+      <string>Male Protagonist</string>
+      <string>Mammary Intercourse</string>
+      <string>Man vs Nature</string>
+      <string>Manhua</string>
+      <string>Manhwa</string>
+      <string>Manipulated Memories</string>
+      <string>Mars</string>
+      <string>Martial Arts</string>
+      <string>Massacre</string>
+      <string>Master-Servant Relationship</string>
+      <string>Master-Slave Relation</string>
+      <string>Masturbation</string>
+      <string>Mecha</string>
+      <string>Mechanical Tentacle</string>
+      <string>Medium Awareness</string>
+      <string>Melodrama</string>
+      <string>Men vs Women</string>
+      <string>Mermaid</string>
+      <string>Mexico</string>
+      <string>Middle East</string>
+      <string>Middle School</string>
+      <string>Military</string>
+      <string>Military is Useless</string>
+      <string>Mina</string>
+      <string>Mind Fuck</string>
+      <string>Mind Games</string>
+      <string>Mini-Series</string>
+      <string>Misleading Beginning</string>
+      <string>Moby-Dick</string>
+      <string>Mockumentary</string>
+      <string>Moe</string>
+      <string>Molestation</string>
+      <string>Mono No Aware</string>
+      <string>Monster of the Week</string>
+      <string>Moon</string>
+      <string>Mother-Daughter Incest</string>
+      <string>Mother-Son Incest</string>
+      <string>Mountaineering</string>
+      <string>Muay Thai</string>
+      <string>Multiple Couples</string>
+      <string>Multiple Personality Disorder</string>
+      <string>Multiple Protagonists</string>
+      <string>Mundane Made Awesome</string>
+      <string>Murder</string>
+      <string>Murder of Family Members</string>
+      <string>Muromachi Period</string>
+      <string>Musical Band</string>
+      <string>Mutilation</string>
+      <string>Mystery</string>
+      <string>Nagasaki</string>
+      <string>Nanomachines</string>
+      <string>Nara</string>
+      <string>Nara Period</string>
+      <string>Narration</string>
+      <string>Nationalism</string>
+      <string>Nature Strikes Back</string>
+      <string>Navel Fuck</string>
+      <string>Nearly Almighty Protagonist</string>
+      <string>Necrophilia</string>
+      <string>Neo-Noir</string>
+      <string>Netorare</string>
+      <string>Netori</string>
+      <string>News</string>
+      <string>Night on the Galactic Railroad</string>
+      <string>Ninja</string>
+      <string>Nipple Penetration</string>
+      <string>Non-Linear</string>
+      <string>Norse Mythology</string>
+      <string>North Korean Production</string>
+      <string>Nostalgia</string>
+      <string>Nostril Hook</string>
+      <string>Not For Kids</string>
+      <string>Nuclear Weapons</string>
+      <string>Nudity</string>
+      <string>Occult</string>
+      <string>Ocean World</string>
+      <string>Okinawa</string>
+      <string>Older Female - Younger Male</string>
+      <string>Olympics</string>
+      <string>Ominous Future</string>
+      <string>Onahole</string>
+      <string>One Thousand and One Nights</string>
+      <string>Onmyoudou</string>
+      <string>Oral</string>
+      <string>Organ Trafficking</string>
+      <string>Organic Mecha</string>
+      <string>Organism Cloning</string>
+      <string>Orgy</string>
+      <string>Original Work: Manga</string>
+      <string>Original Work: Novel</string>
+      <string>Osaka</string>
+      <string>Otaku Culture</string>
+      <string>Outdoor Sex</string>
+      <string>Oyakodon</string>
+      <string>Pachinko</string>
+      <string>Pacifism</string>
+      <string>Painting</string>
+      <string>Pakistan</string>
+      <string>Pantyjob</string>
+      <string>Paper Clothes</string>
+      <string>Paradise Lost</string>
+      <string>Parallel Universe</string>
+      <string>Paramilitary</string>
+      <string>Paranoia</string>
+      <string>Parasite</string>
+      <string>Parental Abandonment</string>
+      <string>Parenting</string>
+      <string>Parody</string>
+      <string>Pegging</string>
+      <string>Penis Jokes</string>
+      <string>Perpetual Ongoing</string>
+      <string>Persian Mythology</string>
+      <string>Person from the Past</string>
+      <string>Peru</string>
+      <string>Philosopher`s Stone</string>
+      <string>Photography</string>
+      <string>Pillory</string>
+      <string>Piloted Robot</string>
+      <string>Pirate</string>
+      <string>Plot Continuity</string>
+      <string>Plot Twists</string>
+      <string>Plot With Porn</string>
+      <string>Point Of View</string>
+      <string>Police are Useless</string>
+      <string>Politics</string>
+      <string>Post-Apocalyptic</string>
+      <string>Post-War</string>
+      <string>Poverty</string>
+      <string>Power Suit</string>
+      <string>Power gives you Wings</string>
+      <string>Predominantly Adult Cast</string>
+      <string>Predominantly Female Cast</string>
+      <string>Predominantly Male Cast</string>
+      <string>Prison</string>
+      <string>Prison Planet</string>
+      <string>Product Placement</string>
+      <string>Propaganda</string>
+      <string>Prostitution</string>
+      <string>Proxy Battles</string>
+      <string>Psychological</string>
+      <string>Psychological Manipulation</string>
+      <string>Public Sex</string>
+      <string>Pussy Sandwich</string>
+      <string>Put Right What Once Went Wrong</string>
+      <string>Racism</string>
+      <string>Randomness</string>
+      <string>Rape</string>
+      <string>Real Robot</string>
+      <string>Realistic Space Setting</string>
+      <string>Realistic War Setting</string>
+      <string>Reality</string>
+      <string>Rebellion</string>
+      <string>Red Ones go Faster</string>
+      <string>Red-Light District</string>
+      <string>Redemption</string>
+      <string>Regeneration from Death</string>
+      <string>Religious Conflicts</string>
+      <string>Religious Persecution</string>
+      <string>Religious Propaganda</string>
+      <string>Reluctant Hero</string>
+      <string>Reluctant to Kill</string>
+      <string>Reluctant to use Power</string>
+      <string>Remake</string>
+      <string>Revenge</string>
+      <string>Reverse Harem</string>
+      <string>Reverse Trap</string>
+      <string>Rimming</string>
+      <string>Rivalry</string>
+      <string>Robinson Crusoe</string>
+      <string>Robot Helper</string>
+      <string>Rock Music</string>
+      <string>Romance</string>
+      <string>Rotten World</string>
+      <string>Roulette</string>
+      <string>Rugby</string>
+      <string>Run Melos!</string>
+      <string>Running Gag</string>
+      <string>Russia</string>
+      <string>Safer Sex</string>
+      <string>Samurai</string>
+      <string>Satire</string>
+      <string>Saving the World</string>
+      <string>Saviour Complex</string>
+      <string>Scat</string>
+      <string>School Clubs</string>
+      <string>School For The Rich Elite</string>
+      <string>School Rivalry</string>
+      <string>Science Fiction</string>
+      <string>Science and Magic Coexist</string>
+      <string>Scissoring</string>
+      <string>Sea Battles</string>
+      <string>Secret Identity</string>
+      <string>Secret Organisation</string>
+      <string>Seeking Protagonist</string>
+      <string>Seinen</string>
+      <string>Seiyuu</string>
+      <string>Self-Parody</string>
+      <string>Sengoku Period</string>
+      <string>Sense of Foreboding</string>
+      <string>Sentai</string>
+      <string>Seven Deadly Sins</string>
+      <string>Sex</string>
+      <string>Sex Change</string>
+      <string>Sex Tape</string>
+      <string>Sex Toys</string>
+      <string>Sex While On The Phone</string>
+      <string>Sexual Abuse</string>
+      <string>Sherlock Holmes</string>
+      <string>Shibari</string>
+      <string>Shinjuku</string>
+      <string>Shinsengumi</string>
+      <string>Shintoism</string>
+      <string>Shipboard</string>
+      <string>Shougi</string>
+      <string>Shoujo</string>
+      <string>Shoujo Ai</string>
+      <string>Shounen</string>
+      <string>Shounen Ai</string>
+      <string>Show within a Show</string>
+      <string>Sibling Rivalry</string>
+      <string>Sibling Yin Yang</string>
+      <string>Sino-Japanese Co-Production</string>
+      <string>Sister-Sister Incest</string>
+      <string>Sixty-Nine</string>
+      <string>Skiing</string>
+      <string>Skilled Main Character</string>
+      <string>Slapstick</string>
+      <string>Slavery</string>
+      <string>Sleeping Beauty</string>
+      <string>Sleeping Sex</string>
+      <string>Slow When It Comes To Love</string>
+      <string>Slow-Paced</string>
+      <string>Small Breasts</string>
+      <string>Snow White</string>
+      <string>Soap</string>
+      <string>Soapland</string>
+      <string>Social Class Issues</string>
+      <string>Social Commentary</string>
+      <string>Social Media</string>
+      <string>Socio-cultural Evolution</string>
+      <string>Softball</string>
+      <string>Some Weird Shit Goin` On</string>
+      <string>South Korean Production</string>
+      <string>Space</string>
+      <string>Space Battles</string>
+      <string>Space Colony</string>
+      <string>Space Elevator</string>
+      <string>Space Exploration</string>
+      <string>Space Opera</string>
+      <string>Space Pirates</string>
+      <string>Space Travel</string>
+      <string>Space Western</string>
+      <string>Space is an Ocean</string>
+      <string>Spain</string>
+      <string>Spanking</string>
+      <string>Special Interest</string>
+      <string>Special Squads</string>
+      <string>Spellcasting</string>
+      <string>Spirit Realm</string>
+      <string>Sport</string>
+      <string>Squirting</string>
+      <string>Sri Lanka</string>
+      <string>Star-Crossed Lovers</string>
+      <string>Steampunk</string>
+      <string>Stomach Bulge</string>
+      <string>Stomach Stretch</string>
+      <string>Strapon</string>
+      <string>Strappado</string>
+      <string>Street Fighting</string>
+      <string>Street Racing</string>
+      <string>Strong Female Lead</string>
+      <string>Strong Male Lead</string>
+      <string>Student Government</string>
+      <string>Stupid Main Character</string>
+      <string>Submission</string>
+      <string>Succubus</string>
+      <string>Sudden Fiancee Appearance</string>
+      <string>Sudden Girlfriend Appearance</string>
+      <string>Sudden Wife Appearance</string>
+      <string>Suffering Protagonist</string>
+      <string>Suicide</string>
+      <string>Summoning</string>
+      <string>Sumo Wrestling</string>
+      <string>Super Deformed</string>
+      <string>Super Power</string>
+      <string>Super Robot</string>
+      <string>Superhero</string>
+      <string>Survival</string>
+      <string>Suspense</string>
+      <string>Swimming</string>
+      <string>Switzerland</string>
+      <string>Swordplay</string>
+      <string>Symbiotic Aliens</string>
+      <string>Table Tennis</string>
+      <string>Taishou Period</string>
+      <string>Taiwanese Production</string>
+      <string>Talk Show</string>
+      <string>Talking Animal</string>
+      <string>Talking Object</string>
+      <string>Talking is a Free Action</string>
+      <string>Tank Warfare</string>
+      <string>Tarot</string>
+      <string>Teacher X Student</string>
+      <string>Teamwork</string>
+      <string>Techno Music</string>
+      <string>Tennis</string>
+      <string>Tentacle</string>
+      <string>Terraforming</string>
+      <string>Terrorism</string>
+      <string>The Chosen One!</string>
+      <string>The Effects of Time and Distance on Human Relationships</string>
+      <string>The Power Of Love</string>
+      <string>The Spider`s Thread</string>
+      <string>The Wizard of Oz</string>
+      <string>There Can Be Only One</string>
+      <string>Thievery</string>
+      <string>Thigh Sex</string>
+      <string>Three Kids on Board</string>
+      <string>Three Kingdoms</string>
+      <string>Threesome</string>
+      <string>Threesome With Sisters</string>
+      <string>Thriller</string>
+      <string>Throat Fucking</string>
+      <string>Time Loop</string>
+      <string>Time Machine</string>
+      <string>Time Skip</string>
+      <string>Time Travel</string>
+      <string>Timid Main Character</string>
+      <string>Toilet Humour</string>
+      <string>Tokugawa Period</string>
+      <string>Tokyo is the Centre of the Universe</string>
+      <string>Tone Changes</string>
+      <string>Torture</string>
+      <string>Tournament</string>
+      <string>Track And Field</string>
+      <string>Tragedy</string>
+      <string>Transfer Student</string>
+      <string>Transforming Craft</string>
+      <string>Translation Convention</string>
+      <string>Trap</string>
+      <string>Trapped in the Body of a Child</string>
+      <string>Travel</string>
+      <string>Treasure Hunt</string>
+      <string>Triple Penetration</string>
+      <string>Troubled Male Lead</string>
+      <string>Twincest</string>
+      <string>UFO</string>
+      <string>Uncle-Niece Incest</string>
+      <string>Uncovering Weaknesses in Human Nature</string>
+      <string>Undead</string>
+      <string>Under One Roof</string>
+      <string>Unexpected Inheritance</string>
+      <string>Unfoundedly Feared Character</string>
+      <string>Uniform Fetish</string>
+      <string>United Kingdom</string>
+      <string>United States</string>
+      <string>Universal Century</string>
+      <string>University</string>
+      <string>Unrequited Love</string>
+      <string>Unrequited Shoujo Ai</string>
+      <string>Unrequited Shounen Ai</string>
+      <string>Urashima Tarou</string>
+      <string>Urethra Penetration</string>
+      <string>Urination</string>
+      <string>Urophagia</string>
+      <string>Utopia</string>
+      <string>Vampire</string>
+      <string>Vandalism</string>
+      <string>Victorian Period</string>
+      <string>Video Game Development</string>
+      <string>Vietnam</string>
+      <string>Vile Protagonist</string>
+      <string>Violence</string>
+      <string>Violence Censoring</string>
+      <string>Violent Retribution for Accidental Infringement</string>
+      <string>Virtual Reality</string>
+      <string>Visible Aura</string>
+      <string>Visiting Alien Superhero</string>
+      <string>Volleyball</string>
+      <string>Voyeurism</string>
+      <string>Waitress</string>
+      <string>Wakamezake</string>
+      <string>Walls Of Text</string>
+      <string>War</string>
+      <string>Wardrobe Limited to School Uniform</string>
+      <string>Wartime Propaganda</string>
+      <string>Water Scarcity</string>
+      <string>Water Sex</string>
+      <string>Wax Play</string>
+      <string>Western</string>
+      <string>Western Zodiac</string>
+      <string>Whip</string>
+      <string>Window Fuck</string>
+      <string>Wooden Horse</string>
+      <string>Wordplay</string>
+      <string>Working Life</string>
+      <string>World Domination</string>
+      <string>World War I</string>
+      <string>World War II</string>
+      <string>Wrestling</string>
+      <string>Wuxia</string>
+      <string>Xenophobia</string>
+      <string>Yaoi</string>
+      <string>Yggdrasil</string>
+      <string>Yokohama</string>
+      <string>Yosakoi</string>
+      <string>Yotsuya Kaidan</string>
+      <string>Youji Play</string>
+      <string>Yuri</string>
+      <string>Zashiki-Warashi</string>
+      <string>Zero To Hero</string>
+      <string>Zombie</string>
+    </AllowedGenres>
+    <GenreMappings>
+      <NameValuePair>
+        <Name>Animation</Name>
+        <Value>Anime</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>18 restricted</Name>
+        <Value>18 Restricted</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>1920s</Name>
+        <Value>1920s</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>1960s</Name>
+        <Value>1960s</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>absurdist humour</Name>
+        <Value>Absurdist Humour</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>absurdly powerful student council</Name>
+        <Value>Absurdly Powerful Student Council</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>action</Name>
+        <Value>Action</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>adult becomes child</Name>
+        <Value>Adult becomes Child</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>adults are useless</Name>
+        <Value>Adults are Useless</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>adventure</Name>
+        <Value>Adventure</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Africa</Name>
+        <Value>Africa</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>afterlife</Name>
+        <Value>Afterlife</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>against destiny</Name>
+        <Value>Against Destiny</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>age change</Name>
+        <Value>Age Change</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>age difference romance</Name>
+        <Value>Age Difference Romance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>agriculture</Name>
+        <Value>Agriculture</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ahegao</Name>
+        <Value>Ahegao</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>aim for the top</Name>
+        <Value>Aim for the Top</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>air combat</Name>
+        <Value>Air Combat</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>airship</Name>
+        <Value>Airship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Akihabara</Name>
+        <Value>Akihabara</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Alice`s Adventures in Wonderland</Name>
+        <Value>Alice in Wonderland</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>alien invasion</Name>
+        <Value>Alien Invasion</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>aliens living on earth</Name>
+        <Value>Aliens living on Earth</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>all-boys school</Name>
+        <Value>All-Boys School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>all-girls school</Name>
+        <Value>All-Girls School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>alternative past</Name>
+        <Value>Alternative Past</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>alternative present</Name>
+        <Value>Alternative Present</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>american derived</Name>
+        <Value>American-derived</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>American football</Name>
+        <Value>American Football</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>amnesia</Name>
+        <Value>Amnesia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>anachronisms</Name>
+        <Value>Anachronisms</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>anal pissing</Name>
+        <Value>Anal Pissing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>anal</Name>
+        <Value>Anal</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ancient rivalry</Name>
+        <Value>Ancient Rivalry</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>android</Name>
+        <Value>Android</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>angel</Name>
+        <Value>Angel</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>angst</Name>
+        <Value>Angst</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>animal abuse</Name>
+        <Value>Animal Abuse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>animal protagonist</Name>
+        <Value>Animal Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>animal sidekick</Name>
+        <Value>Animal Sidekick</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>animal world</Name>
+        <Value>Animal World</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>anthropomorphism</Name>
+        <Value>Anthropomorphism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>antihero</Name>
+        <Value>Antihero</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>anti-war</Name>
+        <Value>Anti-War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>archaeology</Name>
+        <Value>Archaeology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>archery</Name>
+        <Value>Archery</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>art school</Name>
+        <Value>Art School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>artificial intelligence</Name>
+        <Value>Artificial Intelligence</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>artificial life form</Name>
+        <Value>Artificial Life Form</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Asimov`s Three Laws of Robotics</Name>
+        <Value>Asimov`s Three Laws of Robotics</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>aspidochelone</Name>
+        <Value>Aspidochelone</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>assassin</Name>
+        <Value>Assassin</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ass-kicking girls</Name>
+        <Value>Ass-Kicking Girls</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>association football</Name>
+        <Value>Association Football</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>astronomy</Name>
+        <Value>Astronomy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Asuka period</Name>
+        <Value>Asuka Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>asymmetric warfare</Name>
+        <Value>Asymmetric Warfare</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Australia</Name>
+        <Value>Australia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>autofellatio</Name>
+        <Value>Autofellatio</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>aviation</Name>
+        <Value>Aviation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>back to square one</Name>
+        <Value>Back To Square One</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bad cooking</Name>
+        <Value>Bad Cooking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bad luck</Name>
+        <Value>Bad Luck</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>badminton</Name>
+        <Value>Badminton</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>baking</Name>
+        <Value>Baking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Bakumatsu - Meiji Period</Name>
+        <Value>Bakumatsu - Meiji Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ballet</Name>
+        <Value>Ballet</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>banana peel</Name>
+        <Value>Banana Peel</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>banchou</Name>
+        <Value>Banchou</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>baseball</Name>
+        <Value>Baseball</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>basketball</Name>
+        <Value>Basketball</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>battle of wits</Name>
+        <Value>Battle of Wits</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>battle royale</Name>
+        <Value>Battle Royale</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>BDSM</Name>
+        <Value>BDSM</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>be careful what you wish for</Name>
+        <Value>Be Careful What You Wish For</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>beautiful people club</Name>
+        <Value>Beautiful People Club</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Belgium</Name>
+        <Value>Belgium</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>belly dance</Name>
+        <Value>Belly Dance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bestiality</Name>
+        <Value>Bestiality</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>betrayal</Name>
+        <Value>Betrayal</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>billiards</Name>
+        <Value>Billiards</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>biological weapons</Name>
+        <Value>Biological Weapons</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>biopunk</Name>
+        <Value>Biopunk</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bishoujo</Name>
+        <Value>Bishoujo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bishounen</Name>
+        <Value>Bishounen</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bitter-sweet</Name>
+        <Value>Bitter-Sweet</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>black humour</Name>
+        <Value>Black Humour</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>blackmail</Name>
+        <Value>Blackmail</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bloodless wounds</Name>
+        <Value>Bloodless Wounds</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>boarding school</Name>
+        <Value>Boarding School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>body exchange</Name>
+        <Value>Body Exchange</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>body sharing</Name>
+        <Value>Body Sharing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>body takeover</Name>
+        <Value>Body Takeover</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bodyguard</Name>
+        <Value>Bodyguard</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bondage</Name>
+        <Value>Bondage</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bounty hunter</Name>
+        <Value>Bounty Hunter</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bowling</Name>
+        <Value>Bowling</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>boxing</Name>
+        <Value>Boxing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>boy kissing boy</Name>
+        <Value>Boy Kissing Boy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>boy meets girl</Name>
+        <Value>Boy Meets Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>brainwashing</Name>
+        <Value>Brainwashing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>branching story</Name>
+        <Value>Branching Story</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Brazil</Name>
+        <Value>Brazil</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>break the cutie</Name>
+        <Value>Break The Cutie</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>breathing in space</Name>
+        <Value>Breathing in Space</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Bright slap</Name>
+        <Value>Bright Slap</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>broken friendship</Name>
+        <Value>Broken Friendship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>brother-sister incest</Name>
+        <Value>Brother-Sister Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bukkake</Name>
+        <Value>Bukkake</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bullet time</Name>
+        <Value>Bullet Time</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>bullying</Name>
+        <Value>Bullying</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>call my name</Name>
+        <Value>Call My Name</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>calling your attacks</Name>
+        <Value>Calling Your Attacks</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Canada</Name>
+        <Value>Canada</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>car chases</Name>
+        <Value>Car Chases</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>castaway</Name>
+        <Value>Castaway</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>catastrophic gadgets</Name>
+        <Value>Catastrophic Gadgets</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>catholic school</Name>
+        <Value>Catholic School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cervix penetration</Name>
+        <Value>Cervix Penetration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>character driven</Name>
+        <Value>Character Driven</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cheating</Name>
+        <Value>Cheating</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cheerleading</Name>
+        <Value>Cheerleading</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>chemical weapons</Name>
+        <Value>Chemical Weapons</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>chess</Name>
+        <Value>Chess</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>child abuse</Name>
+        <Value>Child Abuse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>child soldier</Name>
+        <Value>Child Soldier(s)</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>childhood promise</Name>
+        <Value>Childhood Promise</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>children of destiny</Name>
+        <Value>Children of Destiny</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Chile</Name>
+        <Value>Chile</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>China</Name>
+        <Value>China</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Chinese mythology</Name>
+        <Value>Chinese Mythology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Chinese production</Name>
+        <Value>Chinese Production</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Chinese zodiac</Name>
+        <Value>Chinese Zodiac</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Cinderella</Name>
+        <Value>Cinderella</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>civil war</Name>
+        <Value>Civil War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>classical music</Name>
+        <Value>Classical Music</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>classic-themed war set in future</Name>
+        <Value>Classic-Themed War Set in Future</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Cold War</Name>
+        <Value>Cold War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>collateral damage</Name>
+        <Value>Collateral Damage</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>colour coded</Name>
+        <Value>Colour Coded</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>combat pragmatist</Name>
+        <Value>Combat Pragmatist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>comedy</Name>
+        <Value>Comedy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>comic relief</Name>
+        <Value>Comic Relief</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>coming of age</Name>
+        <Value>Coming Of Age</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>communication with the dead</Name>
+        <Value>Communication with the Dead</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>competition</Name>
+        <Value>Competition</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>concentration camp</Name>
+        <Value>Concentration Camp</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>concert</Name>
+        <Value>Concert</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>conspiracy</Name>
+        <Value>Conspiracy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>contemporary fantasy</Name>
+        <Value>Contemporary Fantasy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cooking</Name>
+        <Value>Cooking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cops</Name>
+        <Value>Cops</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>corrupt church</Name>
+        <Value>Corrupt Church</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cosmic reset</Name>
+        <Value>Cosmic Reset</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cosplaying</Name>
+        <Value>Cosplaying</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>coup d`etat</Name>
+        <Value>Coup D`Etat</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>court politics</Name>
+        <Value>Court Politics</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>courtroom drama</Name>
+        <Value>Courtroom Drama</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>crazy girl</Name>
+        <Value>Crazy Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cream pie</Name>
+        <Value>Cream Pie</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>crime</Name>
+        <Value>Crime</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>croquet</Name>
+        <Value>Croquet</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cross-dressing</Name>
+        <Value>Cross-Dressing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cruel reality</Name>
+        <Value>Cruel Reality</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cultural references</Name>
+        <Value>Cultural References</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cum play</Name>
+        <Value>Cum Play</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cum swapping</Name>
+        <Value>Cum Swapping</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cunnilingus</Name>
+        <Value>Cunnilingus</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>curse</Name>
+        <Value>Curse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cyberpunk</Name>
+        <Value>Cyberpunk</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cybersex</Name>
+        <Value>Cybersex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cyberterrorism</Name>
+        <Value>Cyberterrorism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cyborg</Name>
+        <Value>Cyborg</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>cycling</Name>
+        <Value>Cycling</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>daikaijuu</Name>
+        <Value>Daikaijuu</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>daily life</Name>
+        <Value>Daily Life</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dark elf</Name>
+        <Value>Dark Elf</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dark fantasy</Name>
+        <Value>Dark Fantasy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dark past</Name>
+        <Value>Dark Past</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dark</Name>
+        <Value>Dark</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dear mother in heaven</Name>
+        <Value>Dear Mother in Heaven</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>death is cheap</Name>
+        <Value>Death is Cheap</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>deception</Name>
+        <Value>Deception</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>deconstruction</Name>
+        <Value>Deconstruction</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>defeat means friendship</Name>
+        <Value>Defeat Means Friendship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>deflowering</Name>
+        <Value>Deflowering</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>deity</Name>
+        <Value>Deity</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>deja vu</Name>
+        <Value>Deja Vu</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>delayed death</Name>
+        <Value>Delayed Death</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>delinquent</Name>
+        <Value>Delinquent</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>demon</Name>
+        <Value>Demon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>despair</Name>
+        <Value>Despair</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>detective agency</Name>
+        <Value>Detective Agency</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>detective</Name>
+        <Value>Detective</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>deus ex machina</Name>
+        <Value>Deus ex Machina</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dialogue driven</Name>
+        <Value>Dialogue Driven</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dieselpunk</Name>
+        <Value>Dieselpunk</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dildos - vibrators</Name>
+        <Value>Dildos - Vibrators</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dinosaur</Name>
+        <Value>Dinosaur</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>disturbing</Name>
+        <Value>Disturbing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Do Androids Dream of Electric Sheep?</Name>
+        <Value>Do Androids Dream of Electric Sheep?</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>documentary</Name>
+        <Value>Documentary</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dodge the hug</Name>
+        <Value>Dodge The Hug</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dodgeball</Name>
+        <Value>Dodgeball</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>doggy style</Name>
+        <Value>Doggy Style</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>doppelganger</Name>
+        <Value>Doppelganger</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>double fellatio</Name>
+        <Value>Double Fellatio</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>double penetration</Name>
+        <Value>Double Penetration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>double-sided dildo</Name>
+        <Value>Double-Sided Dildo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>doujin</Name>
+        <Value>Doujin</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dragon girl</Name>
+        <Value>Dragon Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dragon</Name>
+        <Value>Dragon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>drastic change of life</Name>
+        <Value>Drastic Change of Life</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>drifting</Name>
+        <Value>Drifting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dutch wife</Name>
+        <Value>Dutch Wife</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dysfunctional family</Name>
+        <Value>Dysfunctional Family</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>dystopia</Name>
+        <Value>Dystopia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Easter Island</Name>
+        <Value>Easter Island</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>eating of humans</Name>
+        <Value>Eating Of Humans</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ecchi</Name>
+        <Value>Ecchi</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>educational</Name>
+        <Value>Educational</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Egyptian mythology</Name>
+        <Value>Egyptian Mythology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>elementary school</Name>
+        <Value>Elementary School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>elf</Name>
+        <Value>Elf</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>emotionally disturbing</Name>
+        <Value>Emotionally Disturbing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>emotionless killer</Name>
+        <Value>Emotionless Killer</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>emotions awaken superpowers</Name>
+        <Value>Emotions Awaken Superpowers</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>end of the world</Name>
+        <Value>End of the World</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>endless ammo</Name>
+        <Value>Endless Ammo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>endless battles</Name>
+        <Value>Endless Battles</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>enema</Name>
+        <Value>Enema</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>engaged to an alien</Name>
+        <Value>Engaged To An Alien</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Engrish</Name>
+        <Value>Engrish</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>enjo-kousai</Name>
+        <Value>Enjo-Kousai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>enjoyable rape</Name>
+        <Value>Enjoyable Rape</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ensemble cast</Name>
+        <Value>Ensemble Cast</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>entertainment industry</Name>
+        <Value>Entertainment Industry</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>entertainment is a crime</Name>
+        <Value>Entertainment Is A Crime</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>epidemic</Name>
+        <Value>Epidemic</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>episodic</Name>
+        <Value>Episodic</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>erotic asphyxiation</Name>
+        <Value>Erotic Asphyxiation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>erotic torture</Name>
+        <Value>Erotic Torture</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>euro-beat</Name>
+        <Value>Euro-Beat</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>European stylised</Name>
+        <Value>European Stylized</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>everybody dies</Name>
+        <Value>Everybody Dies</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>everybody has sex</Name>
+        <Value>Everybody Has Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>everybody is nice</Name>
+        <Value>Everybody Is Nice</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evil empire</Name>
+        <Value>Evil Empire</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evil government</Name>
+        <Value>Evil Government</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evil hero</Name>
+        <Value>Evil Hero</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evil military</Name>
+        <Value>Evil Military</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evil organization</Name>
+        <Value>Evil Organization</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evil tradition</Name>
+        <Value>Evil Tradition</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>evolved humans</Name>
+        <Value>Evolved Humans</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>excessive censoring</Name>
+        <Value>Excessive Censoring</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>exhibitionism</Name>
+        <Value>Exhibitionism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>exorcism</Name>
+        <Value>Exorcism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>experimental technology</Name>
+        <Value>Experimental Technology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>extrasensory perception</Name>
+        <Value>Extrasensory Perception</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>eye penetration</Name>
+        <Value>Eye Penetration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>eyeball licking</Name>
+        <Value>Eyeball Licking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>faceless alien invasion</Name>
+        <Value>Faceless Alien Invasion</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>faceless background characters</Name>
+        <Value>Faceless Background Characters</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>facesitting</Name>
+        <Value>Facesitting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>facial distortion</Name>
+        <Value>Facial Distortion</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fairies</Name>
+        <Value>Fairies</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fairy tale</Name>
+        <Value>Fairy Tale</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fake relationship</Name>
+        <Value>Fake Relationship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>familiar spirit</Name>
+        <Value>Familiar Spirit</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>family without father</Name>
+        <Value>Family without Father</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>family without mother</Name>
+        <Value>Family without Mother</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>famine</Name>
+        <Value>Famine</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fanatic protagonist</Name>
+        <Value>Fanatic Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fantasy world</Name>
+        <Value>Fantasy World</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fantasy</Name>
+        <Value>Fantasy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fashion</Name>
+        <Value>Fashion</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>faster-than-light travel</Name>
+        <Value>Faster-Than-Light Travel</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fast-paced</Name>
+        <Value>Fast-Paced</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fate worse than death</Name>
+        <Value>Fate Worse Than Death</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>father-daughter incest</Name>
+        <Value>Father-Daughter Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>felching</Name>
+        <Value>Felching</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fellatio</Name>
+        <Value>Fellatio</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>female protagonist</Name>
+        <Value>Female Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>female warriors</Name>
+        <Value>Female Warriors</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>femdom</Name>
+        <Value>Femdom</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>femme fatale</Name>
+        <Value>Femme Fatale</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>feud</Name>
+        <Value>Feud</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>feudal warfare</Name>
+        <Value>Feudal Warfare</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>FFM threesome</Name>
+        <Value>FFM Threesome</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fighting</Name>
+        <Value>Fighting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fillers</Name>
+        <Value>Fillers</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>filmmaking</Name>
+        <Value>Filmmaking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Finland</Name>
+        <Value>Finland</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>first love</Name>
+        <Value>First Love</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fishing</Name>
+        <Value>Fishing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>fisting</Name>
+        <Value>Fisting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>flat chest jokes</Name>
+        <Value>Flat-chest Jokes</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>floating island</Name>
+        <Value>Floating Island</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>following one`s dream</Name>
+        <Value>Following One`S Dream</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>foot fetish</Name>
+        <Value>Foot Fetish</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>footjob</Name>
+        <Value>Footjob</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>forbidden love</Name>
+        <Value>Forbidden Love</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>foreskin sex</Name>
+        <Value>Foreskin Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>formerly one-gender school</Name>
+        <Value>Formerly One-Gender School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>formula racing</Name>
+        <Value>Formula Racing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>foursome</Name>
+        <Value>Foursome</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>frame story</Name>
+        <Value>Frame Story</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>France</Name>
+        <Value>France</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>French revolution</Name>
+        <Value>French Revolution</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>friendship</Name>
+        <Value>Friendship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>funny expressions</Name>
+        <Value>Funny Expressions</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>futa x female</Name>
+        <Value>Futa X Female</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>futa x futa</Name>
+        <Value>Futa X Futa</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>futa x male</Name>
+        <Value>Futa X Male</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>futanari</Name>
+        <Value>Futanari</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>future</Name>
+        <Value>Future</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gambling</Name>
+        <Value>Gambling</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gang bang</Name>
+        <Value>Gang Bang</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gang rape</Name>
+        <Value>Gang Rape</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gangs</Name>
+        <Value>Gangs</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gaslamp fantasy</Name>
+        <Value>Gaslamp Fantasy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gattai</Name>
+        <Value>Gattai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gender bender</Name>
+        <Value>Gender Bender</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>genetic modification</Name>
+        <Value>Genetic Modification</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>genocide</Name>
+        <Value>Genocide</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Germany</Name>
+        <Value>Germany</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ghost</Name>
+        <Value>Ghost</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>girl kissing girl</Name>
+        <Value>Girl Kissing Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>girl rapes girl</Name>
+        <Value>Girl Rapes Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>global warming</Name>
+        <Value>Global Warming</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gloomy rain</Name>
+        <Value>Gloomy Rain</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>glory hole</Name>
+        <Value>Glory Hole</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>go</Name>
+        <Value>Go</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>god is a girl</Name>
+        <Value>God Is a Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gokkun</Name>
+        <Value>Gokkun</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>golden shower</Name>
+        <Value>Golden Shower</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>golf</Name>
+        <Value>Golf</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>good vs evil</Name>
+        <Value>Good Vs Evil</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gore</Name>
+        <Value>Gore</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gotta catch them all</Name>
+        <Value>Gotta Catch Them All</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>governmental censorship</Name>
+        <Value>Governmental Censorship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>grail in the garbage</Name>
+        <Value>Grail in the Garbage</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>grandiose displays of wealth</Name>
+        <Value>Grandiose Displays of Wealth</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Greek mythology</Name>
+        <Value>Greek Mythology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>group suicide</Name>
+        <Value>Group Suicide</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>guerilla warfare</Name>
+        <Value>Guerilla Warfare</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gunfights</Name>
+        <Value>Gunfights</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>guns are useless</Name>
+        <Value>Guns are Useless</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>guro</Name>
+        <Value>Guro</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>guy getting raped</Name>
+        <Value>Guy Getting Raped</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>gymnastics</Name>
+        <Value>Gymnastics</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Hakkenden</Name>
+        <Value>Hakkenden</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>han dynasty</Name>
+        <Value>Han Dynasty</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>handjob</Name>
+        <Value>Handjob</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>happy ending</Name>
+        <Value>Happy Ending</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hard science fiction</Name>
+        <Value>Hard Science Fiction</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hard work and guts</Name>
+        <Value>Hard Work and Guts</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>harem</Name>
+        <Value>Harem</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>heart-warming</Name>
+        <Value>Heart-Warming</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>heaven</Name>
+        <Value>Heaven</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>heavy metal music</Name>
+        <Value>Heavy Metal Music</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Heian period</Name>
+        <Value>Heian Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hell</Name>
+        <Value>Hell</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>henshin</Name>
+        <Value>Henshin</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>heroic fantasy</Name>
+        <Value>Heroic Fantasy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>heroic sacrifice</Name>
+        <Value>Heroic Sacrifice</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hidden power</Name>
+        <Value>Hidden Power</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hidden vibrator</Name>
+        <Value>Hidden Vibrator</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>high fantasy</Name>
+        <Value>High Fantasy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>high school</Name>
+        <Value>High School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hip-hop</Name>
+        <Value>Hip-Hop</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hirable protagonist</Name>
+        <Value>Hirable Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Hiroshima</Name>
+        <Value>Hiroshima</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>historical</Name>
+        <Value>Historical</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>history is written by the victors</Name>
+        <Value>History Is Written By The Victors</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Hokkaido</Name>
+        <Value>Hokkaido</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>horny nosebleed</Name>
+        <Value>Horny Nosebleed</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>horror</Name>
+        <Value>Horror</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>horse riding</Name>
+        <Value>Horse Riding</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human - god relationship</Name>
+        <Value>Human - God Relationship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human - non-human relationship</Name>
+        <Value>Human - Non-Human Relationship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human cannibalism</Name>
+        <Value>Human Cannibalism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human enhancement</Name>
+        <Value>Human Enhancement</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human experimentation</Name>
+        <Value>Human Experimentation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human sacrifice</Name>
+        <Value>Human Sacrifice</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human weapon</Name>
+        <Value>Human Weapon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human-android love</Name>
+        <Value>Human-Android Love</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>humanoid alien</Name>
+        <Value>Humanoid Alien</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>human-replacement robots</Name>
+        <Value>Human-Replacement Robots</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Hyakunin Isshu</Name>
+        <Value>Hyakunin Isshu</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>hyperspace mallet</Name>
+        <Value>Hyperspace Mallet</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ice skating</Name>
+        <Value>Ice Skating</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>idol girlfriend</Name>
+        <Value>Idol Girlfriend</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>idol</Name>
+        <Value>Idol</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Ikebukuro</Name>
+        <Value>Ikebukuro</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>illness</Name>
+        <Value>Illness</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>immortality</Name>
+        <Value>Immortality</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>impact event</Name>
+        <Value>Impact Event</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>imperial stormtrooper marksmanship academy</Name>
+        <Value>Imperial Stormtrooper Marksmanship Academy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>imperialism</Name>
+        <Value>Imperialism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>important haircut</Name>
+        <Value>Important Haircut</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>impregnation</Name>
+        <Value>Impregnation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>improbable physics</Name>
+        <Value>Improbable Physics</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>in medias res</Name>
+        <Value>In Medias Res</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>incest</Name>
+        <Value>Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>India</Name>
+        <Value>India</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Indo-Japanese co-production</Name>
+        <Value>Indo-Japanese Co-Production</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>infidelity</Name>
+        <Value>Infidelity</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>inline skating</Name>
+        <Value>Inline Skating</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>inter-dimensional schoolgirl</Name>
+        <Value>Inter-dimensional Schoolgirl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>inter-dimensional travel</Name>
+        <Value>Inter-Dimensional Travel</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>internal shots</Name>
+        <Value>Internal Shots</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>isekai</Name>
+        <Value>Isekai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Italy</Name>
+        <Value>Italy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>iyashi-kei</Name>
+        <Value>Iyashi-Kei</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Japanese mythology</Name>
+        <Value>Japanese Mythology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>jazz</Name>
+        <Value>Jazz</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>jealousy</Name>
+        <Value>Jealousy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>josei</Name>
+        <Value>Josei</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>journalism</Name>
+        <Value>Journalism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Journey to the West</Name>
+        <Value>Journey to the West</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>journey</Name>
+        <Value>Journey</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>judo</Name>
+        <Value>Judo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>just as planned</Name>
+        <Value>Just As Planned</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>juujin</Name>
+        <Value>Juujin</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>kabuki</Name>
+        <Value>Kabuki</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Kaguya-hime</Name>
+        <Value>Kaguya-Hime</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>karate</Name>
+        <Value>Karate</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>karuta</Name>
+        <Value>Karuta</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>kendo</Name>
+        <Value>Kendo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>kids in war</Name>
+        <Value>Kids in War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>killer loli</Name>
+        <Value>Killer Loli</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>killer maid</Name>
+        <Value>Killer Maid</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>killer with sudden conscience crisis</Name>
+        <Value>Killer With Sudden Conscience Crisis</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>killing - murdering protagonist</Name>
+        <Value>Killing - Murdering Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>kodomo</Name>
+        <Value>Kodomo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Korea</Name>
+        <Value>Korea</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Kyoto</Name>
+        <Value>Kyoto</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>lacrosse</Name>
+        <Value>Lacrosse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>lactation</Name>
+        <Value>Lactation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>large breasts</Name>
+        <Value>Large Breasts</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>large-scale war</Name>
+        <Value>Large-Scale War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>light-hearted</Name>
+        <Value>Light-Hearted</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>literature</Name>
+        <Value>Literature</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Little Black Sambo</Name>
+        <Value>Little Black Sambo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>living together with god</Name>
+        <Value>Living Together with God</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>loli</Name>
+        <Value>Loli</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>long time span</Name>
+        <Value>Long Time Span</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>lost technology</Name>
+        <Value>Lost Technology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>love at first sight</Name>
+        <Value>Love at First Sight</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>love between enemies</Name>
+        <Value>Love Between Enemies</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>love polygon</Name>
+        <Value>Love Polygon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>macabre</Name>
+        <Value>Macabre</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mafia</Name>
+        <Value>Mafia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>magic school</Name>
+        <Value>Magic School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>magic weapons</Name>
+        <Value>Magic Weapons</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>magic</Name>
+        <Value>Magic</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>magical girl</Name>
+        <Value>Magical Girl</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>magical realism</Name>
+        <Value>Magical Realism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mahjong</Name>
+        <Value>Mahjong</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>male protagonist</Name>
+        <Value>Male Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mammary intercourse</Name>
+        <Value>Mammary Intercourse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>man vs nature</Name>
+        <Value>Man vs Nature</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>manhua</Name>
+        <Value>Manhua</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>manhwa</Name>
+        <Value>Manhwa</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>manipulated memories</Name>
+        <Value>Manipulated Memories</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Mars</Name>
+        <Value>Mars</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>martial arts</Name>
+        <Value>Martial Arts</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>massacre</Name>
+        <Value>Massacre</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>master-servant relationship</Name>
+        <Value>Master-Servant Relationship</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>master-slave relation</Name>
+        <Value>Master-Slave Relation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>masturbation</Name>
+        <Value>Masturbation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mecha</Name>
+        <Value>Mecha</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mechanical tentacle</Name>
+        <Value>Mechanical Tentacle</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>medium awareness</Name>
+        <Value>Medium Awareness</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>melodrama</Name>
+        <Value>Melodrama</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>men vs women</Name>
+        <Value>Men vs Women</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mermaid</Name>
+        <Value>Mermaid</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Mexico</Name>
+        <Value>Mexico</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Middle East</Name>
+        <Value>Middle East</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>middle school</Name>
+        <Value>Middle School</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>military is useless</Name>
+        <Value>Military is Useless</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>military</Name>
+        <Value>Military</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mina</Name>
+        <Value>Mina</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mind fuck</Name>
+        <Value>Mind Fuck</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mind games</Name>
+        <Value>Mind Games</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>misleading beginning</Name>
+        <Value>Misleading Beginning</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>MMF threesome</Name>
+        <Value>MMF Threesome</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>MMM threesome</Name>
+        <Value>MMM Threesome</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Moby-Dick</Name>
+        <Value>Moby-Dick</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mockumentary</Name>
+        <Value>Mockumentary</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>moe</Name>
+        <Value>Moe</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>molestation</Name>
+        <Value>Molestation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mono no aware</Name>
+        <Value>Mono No Aware</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>monster of the week</Name>
+        <Value>Monster of the Week</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Moon</Name>
+        <Value>Moon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mother-daughter incest</Name>
+        <Value>Mother-Daughter Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mother-son incest</Name>
+        <Value>Mother-Son Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mountaineering</Name>
+        <Value>Mountaineering</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Muay Thai</Name>
+        <Value>Muay Thai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>multiple couples</Name>
+        <Value>Multiple Couples</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>multiple personality disorder</Name>
+        <Value>Multiple Personality Disorder</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>multiple protagonists</Name>
+        <Value>Multiple Protagonists</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mundane made awesome</Name>
+        <Value>Mundane Made Awesome</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>murder of family members</Name>
+        <Value>Murder of Family Members</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>murder</Name>
+        <Value>Murder</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Muromachi period</Name>
+        <Value>Muromachi Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>musical band</Name>
+        <Value>Musical Band</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mutilation</Name>
+        <Value>Mutilation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>mystery</Name>
+        <Value>Mystery</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Nagasaki</Name>
+        <Value>Nagasaki</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nanomachines</Name>
+        <Value>Nanomachines</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Nara period</Name>
+        <Value>Nara Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Nara</Name>
+        <Value>Nara</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>narration</Name>
+        <Value>Narration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nationalism</Name>
+        <Value>Nationalism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nature strikes back</Name>
+        <Value>Nature Strikes Back</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>navel fuck</Name>
+        <Value>Navel Fuck</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nearly almighty protagonist</Name>
+        <Value>Nearly Almighty Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>necrophilia</Name>
+        <Value>Necrophilia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>neo-noir</Name>
+        <Value>Neo-Noir</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>netorare</Name>
+        <Value>Netorare</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>netori</Name>
+        <Value>Netori</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Night on the Galactic Railroad</Name>
+        <Value>Night on the Galactic Railroad</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ninja</Name>
+        <Value>Ninja</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nipple penetration</Name>
+        <Value>Nipple Penetration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>non-linear</Name>
+        <Value>Non-Linear</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Norse mythology</Name>
+        <Value>Norse Mythology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>North Korean production</Name>
+        <Value>North Korean Production</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nostalgia</Name>
+        <Value>Nostalgia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nostril hook</Name>
+        <Value>Nostril Hook</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>not for kids</Name>
+        <Value>Not For Kids</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nuclear weapons</Name>
+        <Value>Nuclear Weapons</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>nudity</Name>
+        <Value>Nudity</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>occult</Name>
+        <Value>Occult</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ocean world</Name>
+        <Value>Ocean World</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Okinawa</Name>
+        <Value>Okinawa</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>older female younger male</Name>
+        <Value>Older Female - Younger Male</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Olympics</Name>
+        <Value>Olympics</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ominous future</Name>
+        <Value>Ominous Future</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>onahole</Name>
+        <Value>Onahole</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>One Thousand and One Nights</Name>
+        <Value>One Thousand and One Nights</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>onmyoudou</Name>
+        <Value>Onmyoudou</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>oral</Name>
+        <Value>Oral</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>organ trafficking</Name>
+        <Value>Organ Trafficking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>organic mecha</Name>
+        <Value>Organic Mecha</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>organism cloning</Name>
+        <Value>Organism Cloning</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>orgy</Name>
+        <Value>Orgy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Osaka</Name>
+        <Value>Osaka</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>otaku culture</Name>
+        <Value>Otaku Culture</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>outdoor sex</Name>
+        <Value>Outdoor Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>oyakodon</Name>
+        <Value>Oyakodon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pachinko</Name>
+        <Value>Pachinko</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pacifism</Name>
+        <Value>Pacifism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>painting</Name>
+        <Value>Painting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Pakistan</Name>
+        <Value>Pakistan</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>palace</Name>
+        <Value>Palace</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pantyjob</Name>
+        <Value>Pantyjob</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>paper clothes</Name>
+        <Value>Paper Clothes</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>paradise lost</Name>
+        <Value>Paradise Lost</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>parallel universe</Name>
+        <Value>Parallel Universe</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>paramilitary</Name>
+        <Value>Paramilitary</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>paranoia</Name>
+        <Value>Paranoia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>parasite</Name>
+        <Value>Parasite</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>parental abandonment</Name>
+        <Value>Parental Abandonment</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>parenting</Name>
+        <Value>Parenting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>parody</Name>
+        <Value>Parody</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pegging</Name>
+        <Value>Pegging</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>penis jokes</Name>
+        <Value>Penis Jokes</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>perpetual ongoing</Name>
+        <Value>Perpetual Ongoing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Persian mythology</Name>
+        <Value>Persian Mythology</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>person from the past</Name>
+        <Value>Person from the Past</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Peru</Name>
+        <Value>Peru</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>philosopher`s stone</Name>
+        <Value>Philosopher`s Stone</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>photography</Name>
+        <Value>Photography</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pillory</Name>
+        <Value>Pillory</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>piloted robot</Name>
+        <Value>Piloted Robot</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pirate</Name>
+        <Value>Pirate</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>plot continuity</Name>
+        <Value>Plot Continuity</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>plot twists</Name>
+        <Value>Plot Twists</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>plot with porn</Name>
+        <Value>Plot With Porn</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>point of view</Name>
+        <Value>Point Of View</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>police are useless</Name>
+        <Value>Police are Useless</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>politics</Name>
+        <Value>Politics</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>post-apocalyptic</Name>
+        <Value>Post-Apocalyptic</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>post-war</Name>
+        <Value>Post-War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>poverty</Name>
+        <Value>Poverty</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>power gives you wings</Name>
+        <Value>Power gives you Wings</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>power suit</Name>
+        <Value>Power Suit</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>predominantly adult cast</Name>
+        <Value>Predominantly Adult Cast</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>predominantly female cast</Name>
+        <Value>Predominantly Female Cast</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>predominantly male cast</Name>
+        <Value>Predominantly Male Cast</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>prison planet</Name>
+        <Value>Prison Planet</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>prison</Name>
+        <Value>Prison</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>product placement</Name>
+        <Value>Product Placement</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>propaganda</Name>
+        <Value>Propaganda</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>prostitution</Name>
+        <Value>Prostitution</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>proxy battles</Name>
+        <Value>Proxy Battles</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>psychological manipulation</Name>
+        <Value>Psychological Manipulation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>psychological</Name>
+        <Value>Psychological</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>public sex</Name>
+        <Value>Public Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>pussy sandwich</Name>
+        <Value>Pussy Sandwich</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>put right what once went wrong</Name>
+        <Value>Put Right What Once Went Wrong</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>racism</Name>
+        <Value>Racism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>randomness</Name>
+        <Value>Randomness</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rape</Name>
+        <Value>Rape</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>real robot</Name>
+        <Value>Real Robot</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>realistic space setting</Name>
+        <Value>Realistic Space Setting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>realistic war setting</Name>
+        <Value>Realistic War Setting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rebellion</Name>
+        <Value>Rebellion</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>red ones go faster</Name>
+        <Value>Red Ones go Faster</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>redemption</Name>
+        <Value>Redemption</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>red-light district</Name>
+        <Value>Red-Light District</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>regeneration from death</Name>
+        <Value>Regeneration from Death</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>religious conflicts</Name>
+        <Value>Religious Conflicts</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>religious persecution</Name>
+        <Value>Religious Persecution</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>religious propaganda</Name>
+        <Value>Religious Propaganda</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>reluctant hero</Name>
+        <Value>Reluctant Hero</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>reluctant to kill</Name>
+        <Value>Reluctant to Kill</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>reluctant to use power</Name>
+        <Value>Reluctant to use Power</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>remake</Name>
+        <Value>Remake</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>revenge</Name>
+        <Value>Revenge</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>reverse harem</Name>
+        <Value>Reverse Harem</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>reverse trap</Name>
+        <Value>Reverse Trap</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rimming</Name>
+        <Value>Rimming</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rivalry</Name>
+        <Value>Rivalry</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Robinson Crusoe</Name>
+        <Value>Robinson Crusoe</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>robot helper</Name>
+        <Value>Robot Helper</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rock music</Name>
+        <Value>Rock Music</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>romance</Name>
+        <Value>Romance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rotten world</Name>
+        <Value>Rotten World</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>roulette</Name>
+        <Value>Roulette</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>rugby</Name>
+        <Value>Rugby</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Run Melos!</Name>
+        <Value>Run Melos!</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>running gag</Name>
+        <Value>Running Gag</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Russia</Name>
+        <Value>Russia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>safer sex</Name>
+        <Value>Safer Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>samurai</Name>
+        <Value>Samurai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>satire</Name>
+        <Value>Satire</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>saving the world</Name>
+        <Value>Saving the World</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>saviour complex</Name>
+        <Value>Saviour Complex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>scat</Name>
+        <Value>Scat</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>school clubs</Name>
+        <Value>School Clubs</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>school for the rich elite</Name>
+        <Value>School For The Rich Elite</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>school rivalry</Name>
+        <Value>School Rivalry</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>science and magic coexist</Name>
+        <Value>Science and Magic Coexist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>science fiction</Name>
+        <Value>Science Fiction</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>scissoring</Name>
+        <Value>Scissoring</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sea battles</Name>
+        <Value>Sea Battles</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>secret identity</Name>
+        <Value>Secret Identity</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>secret organisation</Name>
+        <Value>Secret Organisation</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>seeking protagonist</Name>
+        <Value>Seeking Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>seinen</Name>
+        <Value>Seinen</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>seiyuu</Name>
+        <Value>Seiyuu</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>self-parody</Name>
+        <Value>Self-Parody</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Sengoku period</Name>
+        <Value>Sengoku Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sense of foreboding</Name>
+        <Value>Sense of Foreboding</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sentai</Name>
+        <Value>Sentai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>seven deadly sins</Name>
+        <Value>Seven Deadly Sins</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sex change</Name>
+        <Value>Sex Change</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sex tape</Name>
+        <Value>Sex Tape</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sex toys</Name>
+        <Value>Sex Toys</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sex while on the phone</Name>
+        <Value>Sex While On The Phone</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sex</Name>
+        <Value>Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sexual abuse</Name>
+        <Value>Sexual Abuse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Sherlock Holmes</Name>
+        <Value>Sherlock Holmes</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shibari</Name>
+        <Value>Shibari</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Shinjuku</Name>
+        <Value>Shinjuku</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shinsengumi</Name>
+        <Value>Shinsengumi</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Shintoism</Name>
+        <Value>Shintoism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shipboard</Name>
+        <Value>Shipboard</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shougi</Name>
+        <Value>Shougi</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shoujo ai</Name>
+        <Value>Shoujo Ai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shoujo</Name>
+        <Value>Shoujo</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shounen ai</Name>
+        <Value>Shounen Ai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>shounen</Name>
+        <Value>Shounen</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>show within a show</Name>
+        <Value>Show within a Show</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sibling rivalry</Name>
+        <Value>Sibling Rivalry</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sibling yin yang</Name>
+        <Value>Sibling Yin Yang</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Sino-Japanese co-production</Name>
+        <Value>Sino-Japanese Co-Production</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sister-sister incest</Name>
+        <Value>Sister-Sister Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sixty-nine</Name>
+        <Value>Sixty-Nine</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>skiing</Name>
+        <Value>Skiing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>skilled main character</Name>
+        <Value>Skilled Main Character</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>slapstick</Name>
+        <Value>Slapstick</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>slavery</Name>
+        <Value>Slavery</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Sleeping Beauty</Name>
+        <Value>Sleeping Beauty</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sleeping sex</Name>
+        <Value>Sleeping Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>slow when it comes to love</Name>
+        <Value>Slow When It Comes To Love</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>slow-paced</Name>
+        <Value>Slow-Paced</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>small breasts</Name>
+        <Value>Small Breasts</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Snow White</Name>
+        <Value>Snow White</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>soapland</Name>
+        <Value>Soapland</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>social class issues</Name>
+        <Value>Social Class Issues</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>social commentary</Name>
+        <Value>Social Commentary</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>social media</Name>
+        <Value>Social Media</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sociocultural evolution</Name>
+        <Value>Socio-cultural Evolution</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>softball</Name>
+        <Value>Softball</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>some weird shit goin` on</Name>
+        <Value>Some Weird Shit Goin` On</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>South Korean production</Name>
+        <Value>South Korean Production</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space battles</Name>
+        <Value>Space Battles</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space colony</Name>
+        <Value>Space Colony</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space elevator</Name>
+        <Value>Space Elevator</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space exploration</Name>
+        <Value>Space Exploration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space is an ocean</Name>
+        <Value>Space is an Ocean</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space opera</Name>
+        <Value>Space Opera</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space pirates</Name>
+        <Value>Space Pirates</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space travel</Name>
+        <Value>Space Travel</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space western</Name>
+        <Value>Space Western</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>space</Name>
+        <Value>Space</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Spain</Name>
+        <Value>Spain</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>spanking</Name>
+        <Value>Spanking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>special squads</Name>
+        <Value>Special Squads</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>spellcasting</Name>
+        <Value>Spellcasting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>spirit realm</Name>
+        <Value>Spirit Realm</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>squirting</Name>
+        <Value>Squirting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Sri Lanka</Name>
+        <Value>Sri Lanka</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>star-crossed lovers</Name>
+        <Value>Star-Crossed Lovers</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>steampunk</Name>
+        <Value>Steampunk</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>stomach bulge</Name>
+        <Value>Stomach Bulge</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>stomach stretch</Name>
+        <Value>Stomach Stretch</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>strapon</Name>
+        <Value>Strapon</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>strappado</Name>
+        <Value>Strappado</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>street fighting</Name>
+        <Value>Street Fighting</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>street racing</Name>
+        <Value>Street Racing</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>strong female lead</Name>
+        <Value>Strong Female Lead</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>strong male lead</Name>
+        <Value>Strong Male Lead</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>student government</Name>
+        <Value>Student Government</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>stupid main character</Name>
+        <Value>Stupid Main Character</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>submission</Name>
+        <Value>Submission</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>succubus</Name>
+        <Value>Succubus</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sudden fiancee appearance</Name>
+        <Value>Sudden Fiancee Appearance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sudden girlfriend appearance</Name>
+        <Value>Sudden Girlfriend Appearance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sudden wife appearance</Name>
+        <Value>Sudden Wife Appearance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>suffering protagonist</Name>
+        <Value>Suffering Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>suicide</Name>
+        <Value>Suicide</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>summoning</Name>
+        <Value>Summoning</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>sumo wrestling</Name>
+        <Value>Sumo Wrestling</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>super deformed</Name>
+        <Value>Super Deformed</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>super power</Name>
+        <Value>Super Power</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>super robot</Name>
+        <Value>Super Robot</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>superhero</Name>
+        <Value>Superhero</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>survival</Name>
+        <Value>Survival</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>swimming</Name>
+        <Value>Swimming</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Switzerland</Name>
+        <Value>Switzerland</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>swordplay</Name>
+        <Value>Swordplay</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>symbiotic aliens</Name>
+        <Value>Symbiotic Aliens</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>table tennis</Name>
+        <Value>Table Tennis</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Taishou period</Name>
+        <Value>Taishou Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Taiwanese production</Name>
+        <Value>Taiwanese Production</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>talking animal</Name>
+        <Value>Talking Animal</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>talking is a free action</Name>
+        <Value>Talking is a Free Action</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>talking object</Name>
+        <Value>Talking Object</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tank warfare</Name>
+        <Value>Tank Warfare</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tarot</Name>
+        <Value>Tarot</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>teacher x student</Name>
+        <Value>Teacher X Student</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>teamwork</Name>
+        <Value>Teamwork</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>techno music</Name>
+        <Value>Techno Music</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tennis</Name>
+        <Value>Tennis</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tentacle</Name>
+        <Value>Tentacle</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>terraforming</Name>
+        <Value>Terraforming</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>terrorism</Name>
+        <Value>Terrorism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>the chosen one!</Name>
+        <Value>The Chosen One!</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>the effects of time and distance on human relationships</Name>
+        <Value>The Effects of Time and Distance on Human Relationships</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>the power of love</Name>
+        <Value>The Power Of Love</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>The Spider`s Thread</Name>
+        <Value>The Spider`s Thread</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>The Wizard of Oz</Name>
+        <Value>The Wizard of Oz</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>there can be only one</Name>
+        <Value>There Can Be Only One</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>thievery</Name>
+        <Value>Thievery</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>thigh sex</Name>
+        <Value>Thigh Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>three kids on board</Name>
+        <Value>Three Kids on Board</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Three Kingdoms</Name>
+        <Value>Three Kingdoms</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>threesome with sisters</Name>
+        <Value>Threesome With Sisters</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>threesome</Name>
+        <Value>Threesome</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>thriller</Name>
+        <Value>Thriller</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>throat fucking</Name>
+        <Value>Throat Fucking</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>time loop</Name>
+        <Value>Time Loop</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>time machine</Name>
+        <Value>Time Machine</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>time skip</Name>
+        <Value>Time Skip</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>time travel</Name>
+        <Value>Time Travel</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>timid main character</Name>
+        <Value>Timid Main Character</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>toilet humour</Name>
+        <Value>Toilet Humour</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Tokugawa period</Name>
+        <Value>Tokugawa Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Tokyo is the centre of the universe</Name>
+        <Value>Tokyo is the Centre of the Universe</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tone changes</Name>
+        <Value>Tone Changes</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>torture</Name>
+        <Value>Torture</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tournament</Name>
+        <Value>Tournament</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>track and field</Name>
+        <Value>Track And Field</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>tragedy</Name>
+        <Value>Tragedy</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>transfer student</Name>
+        <Value>Transfer Student</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>transforming craft</Name>
+        <Value>Transforming Craft</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>translation convention</Name>
+        <Value>Translation Convention</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>trap</Name>
+        <Value>Trap</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>trapped in the body of a child</Name>
+        <Value>Trapped in the Body of a Child</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>treasure hunt</Name>
+        <Value>Treasure Hunt</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>triple penetration</Name>
+        <Value>Triple Penetration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>troubled male lead</Name>
+        <Value>Troubled Male Lead</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>twincest</Name>
+        <Value>Twincest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>ufo</Name>
+        <Value>UFO</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>uncle-niece incest</Name>
+        <Value>Uncle-Niece Incest</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>undead</Name>
+        <Value>Undead</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>under one roof</Name>
+        <Value>Under One Roof</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>unexpected inheritance</Name>
+        <Value>Unexpected Inheritance</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>unfoundedly feared character</Name>
+        <Value>Unfoundedly Feared Character</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>uniform fetish</Name>
+        <Value>Uniform Fetish</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>United Kingdom</Name>
+        <Value>United Kingdom</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>United States</Name>
+        <Value>United States</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Universal Century</Name>
+        <Value>Universal Century</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>university</Name>
+        <Value>University</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>unrequited love</Name>
+        <Value>Unrequited Love</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>unrequited shoujo ai</Name>
+        <Value>Unrequited Shoujo Ai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>unrequited shounen ai</Name>
+        <Value>Unrequited Shounen Ai</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Urashima Tarou</Name>
+        <Value>Urashima Tarou</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>urethra penetration</Name>
+        <Value>Urethra Penetration</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>urination</Name>
+        <Value>Urination</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>urophagia</Name>
+        <Value>Urophagia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>utopia</Name>
+        <Value>Utopia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>vampire</Name>
+        <Value>Vampire</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>vandalism</Name>
+        <Value>Vandalism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Victorian period</Name>
+        <Value>Victorian Period</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>video game development</Name>
+        <Value>Video Game Development</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Vietnam</Name>
+        <Value>Vietnam</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>vile protagonist</Name>
+        <Value>Vile Protagonist</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>violence censoring</Name>
+        <Value>Violence Censoring</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>violence</Name>
+        <Value>Violence</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>violent retribution for accidental infringement</Name>
+        <Value>Violent Retribution for Accidental Infringement</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>virtual reality</Name>
+        <Value>Virtual Reality</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>visible aura</Name>
+        <Value>Visible Aura</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>visiting alien superhero</Name>
+        <Value>Visiting Alien Superhero</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>volleyball</Name>
+        <Value>Volleyball</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>voyeurism</Name>
+        <Value>Voyeurism</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>waitress</Name>
+        <Value>Waitress</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wakamezake</Name>
+        <Value>Wakamezake</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>walls of text</Name>
+        <Value>Walls Of Text</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>war</Name>
+        <Value>War</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wardrobe limited to school uniform</Name>
+        <Value>Wardrobe Limited to School Uniform</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wartime propaganda</Name>
+        <Value>Wartime Propaganda</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>water scarcity</Name>
+        <Value>Water Scarcity</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>water sex</Name>
+        <Value>Water Sex</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wax play</Name>
+        <Value>Wax Play</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Western zodiac</Name>
+        <Value>Western Zodiac</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>western</Name>
+        <Value>Western</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>whip</Name>
+        <Value>Whip</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>window fuck</Name>
+        <Value>Window Fuck</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wooden horse</Name>
+        <Value>Wooden Horse</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wordplay</Name>
+        <Value>Wordplay</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>working life</Name>
+        <Value>Working Life</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>world domination</Name>
+        <Value>World Domination</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>World War I</Name>
+        <Value>World War I</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>World War II</Name>
+        <Value>World War II</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wrestling</Name>
+        <Value>Wrestling</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>wuxia</Name>
+        <Value>Wuxia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>xenophobia</Name>
+        <Value>Xenophobia</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>yaoi</Name>
+        <Value>Yaoi</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Yggdrasil</Name>
+        <Value>Yggdrasil</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Yokohama</Name>
+        <Value>Yokohama</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>yosakoi</Name>
+        <Value>Yosakoi</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Yotsuya Kaidan</Name>
+        <Value>Yotsuya Kaidan</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>youji play</Name>
+        <Value>Youji Play</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>yuri</Name>
+        <Value>Yuri</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>zashiki-warashi</Name>
+        <Value>Zashiki-Warashi</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>zero to hero</Name>
+        <Value>Zero To Hero</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>zombie</Name>
+        <Value>Zombie</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>4-koma</Name>
+        <Value>4-Koma</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>Science-Fiction</Name>
+        <Value>Science Fiction</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>uncovering weaknesses in human nature</Name>
+        <Value>Uncovering Weaknesses in Human Nature</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>chikan</Name>
+        <Value>Chikan</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>manga</Name>
+        <Value>Original Work: Manga</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>novel</Name>
+        <Value>Original Work: Novel</Value>
+      </NameValuePair>
+    </GenreMappings>
+    <LastChange>2017-10-20T21:49:29.5201856Z</LastChange>
+  </SeriesOptions>
+  <AlbumOptions>
+    <AllowedGenres />
+    <GenreMappings />
+    <LastChange>0001-01-01T00:00:00Z</LastChange>
+  </AlbumOptions>
+  <BookOptions>
+    <AllowedGenres />
+    <GenreMappings />
+    <LastChange>0001-01-01T00:00:00Z</LastChange>
+  </BookOptions>
+  <GameOptions>
+    <AllowedGenres />
+    <GenreMappings />
+    <LastChange>0001-01-01T00:00:00Z</LastChange>
+  </GameOptions>
+  <PhotoOptions>
+    <AllowedGenres />
+    <GenreMappings />
+    <LastChange>0001-01-01T00:00:00Z</LastChange>
+  </PhotoOptions>
+  <LastChangedOption>series</LastChangedOption>
+</PluginConfiguration>
