@@ -46,3 +46,6 @@ AniDB has a very low threshold for repeated metadata requests, which, when cross
 You must have a %MediaBrowserData% environment variable pointing to the server data folder of the Media Browser server. The plugin will be copied into the plugins folder when the project is successfully built.
 
 The GenreCleaner.xml file should be placed in the `%AppData%\Roaming\Emby-Server\plugins\configurations` folder.
+
+## To-Do:
+Implement functionallity currently left to GenreHelper Plugin internally in GenreHelper.cs.
