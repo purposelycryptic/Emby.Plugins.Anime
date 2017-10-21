@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using MediaBrowser.Model.Plugins;
@@ -35,10 +35,10 @@ namespace MediaBrowser.Plugins.Anime.Configuration
 
         public PluginConfiguration()
         {
-            TitlePreference = TitlePreferenceType.Localized;
+            TitlePreference = TitlePreferenceType.JapaneseRomaji;
             AllowAutomaticMetadataUpdates = true;
-            TidyGenreList = true;
-            MaxGenres = 5;
+            TidyGenreList = false;
+            MaxGenres = 0;
             AddAnimeGenre = true;
             UseAnidbOrderingWithSeasons = false;
         }
