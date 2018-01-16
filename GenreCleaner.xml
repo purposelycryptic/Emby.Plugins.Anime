@@ -310,7 +310,7 @@
       <string>Fisting</string>
       <string>Flat-chest Jokes</string>
       <string>Floating Island</string>
-      <string>Following One`S Dream</string>
+      <string>Following One`s Dream</string>
       <string>Food</string>
       <string>Foot Fetish</string>
       <string>Footjob</string>
@@ -2086,10 +2086,6 @@
       <NameValuePair>
         <Name>floating island</Name>
         <Value>Floating Island</Value>
-      </NameValuePair>
-      <NameValuePair>
-        <Name>following one`s dream</Name>
-        <Value>Following One`S Dream</Value>
       </NameValuePair>
       <NameValuePair>
         <Name>foot fetish</Name>
@@ -4371,8 +4367,16 @@
         <Name>novel</Name>
         <Value>Original Work: Novel</Value>
       </NameValuePair>
+      <NameValuePair>
+        <Name>Following One`S Dream</Name>
+        <Value>Following One`s Dream</Value>
+      </NameValuePair>
+      <NameValuePair>
+        <Name>following one`s dream</Name>
+        <Value>Following One`s Dream</Value>
+      </NameValuePair>
     </GenreMappings>
-    <LastChange>2017-10-20T21:49:29.5201856Z</LastChange>
+    <LastChange>2017-10-21T23:14:48.541745Z</LastChange>
   </SeriesOptions>
   <AlbumOptions>
     <AllowedGenres />
